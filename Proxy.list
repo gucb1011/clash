@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,followme.ceo
 DOMAIN-SUFFIX,whatsmydns.me
 DOMAIN-SUFFIX,izhanghao.com
 DOMAIN-SUFFIX,ihezu.fun
+DOMAIN-SUFFIX,v2rayssr.com
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
