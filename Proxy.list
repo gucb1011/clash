@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,izhanghao.com
 DOMAIN-SUFFIX,ihezu.fun
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,ouonetwork.com
+DOMAIN-SUFFIX,plex.tv
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
