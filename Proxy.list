@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,ihezu.fun
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,ouonetwork.com
 DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,llgjc1.com
+DOMAIN-SUFFIX,cshjc.top
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
