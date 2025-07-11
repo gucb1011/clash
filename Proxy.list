@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,ouonetwork.com
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,llgjc1.com
 DOMAIN-SUFFIX,cshjc.top
+DOMAIN-SUFFIX,bitzconnect.com
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
