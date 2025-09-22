@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,llgjc1.com
 DOMAIN-SUFFIX,cshjc.top
 DOMAIN-SUFFIX,bitzconnect.com
 DOMAIN-SUFFIX,afun.la
-DOMAIN-SUFFIX,tmdb.org
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
